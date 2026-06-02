@@ -1,0 +1,8 @@
+{
+  "name": "俄罗斯方块经典版",
+  "description": "一个精美且功能完备的网页版俄罗斯方块游戏。支持键盘和触摸屏操作、本地排行榜、多种难度级别以及复古合成音效开关。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
